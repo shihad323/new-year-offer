@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+.back-front{
+                    background-image: url(images/Banner\ Image.png);
+                    max-width:1320px;
+                    min-height: 600px;
+                    background-repeat: no-repeat;
+                    color: white;
+                    text-align: center;
+                    display: flex;
+                    justify-content: center;
+                    margin: 0 auto;
+                    flex-direction: column;
+                    background-size: cover;
+                    align-items: center;
+                    background-color: rgba(0, 0, 0, .4);
+                    background-blend-mode: overlay;
+                    margin-top: 20px;
+                    border-radius: 2%;
+                    font-family: "Merriweather", serif;
+                    
+}
+.title{
+                    font-size: 32px;
+                    max-width: 280px;
+}
+.title-theme{
+                    font-size: 72px;
+                    max-width: 632px;
+}
+.sixfive-section{
+                    max-width: 803px;
+                    height: 806px;
+                    margin: 0 auto;
+                    margin-top: 10px;
+}
+.off{
+                    color: rgba(255, 0, 0, 1);
+                    text-align: center;
+                    font-size: 88px;
+}
+.our{
+                    font-size: 24px;
+                    color: red;
+                    margin: 10px auto;
+                    text-align: center;
+}
+.all{
+                    font-size: 48px;
+                    color: rgb(7,2,17);
+                    margin: 10px auto;
+                    text-align: center;
+}
+.midnight-party-container{
+                    width: 1320px;
+                    height: 600px;
+                    margin: 0 auto;
+                    display: flex;
+                    background-image: url(images/Vectorrr.png);
+                    border-radius: 2%;
+}
+.leftside-content{
+                  height: 600px;
+                  width: 60%;
+                  font-family: "Merriweather", serif;
+                  background-color: rgba(0, 0, 0, .4);
+                  background-blend-mode: overlay;
+                  display: flex;
+                  flex-direction: column;
+                  justify-content: center;
+                  align-items: center;
+                  border-radius: 5%;
+}
+.rightside-content{
+                    height: 600px;
+                    width: 40%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color:rgba(0, 0, 0, .3);
+                    background-blend-mode: overlay;
+                    border-radius: 5%;
+
+}
+.welcome{
+                    color: white;
+                    letter-spacing: 11%;
+                    font-size: 64px;
+                    padding: 30px;
+                    width: 642px;
+}
+.dolar{
+                    color: rgba(255, 255, 255, .8);
+                    font-size: 18px;
+                    padding: 30px;
+                    width: 697px;
+}
+.join{
+                    font-size: 20px;
+                    color: rgb(255, 255, 255);
+}
+.right-img{
+                    height: 465px;
+                    max-width: 350px;
+                    margin: 0 auto;
+}
+.holiday-section-container{
+                     max-width: 1320px;
+                     height: 987px;
+                     border: 2px solid green;
+                     margin: 0 auto;
+                     margin-top: 50px;
+                     position: relative;
+}
+.what{
+                    font-size: 24px;
+                    font-weight: 500;
+                    line-height: 29px;
+                    text-align: center;
+}
+.holidays{
+                    font-family: "Merriweather", serif;
+                    display: inline-block;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 72px;
+                    font-weight: 900;
+                    line-height: 91px;
+                    text-align: center;
+                    margin: 0 auto;
+}
+.hdolor{
+                    color: rgba(7, 2, 17, .6);
+                    font-size: 20px;
+                    text-align: center;
+                    margin: 20px auto;
+                    max-width: 1060px;
+}
+.solid-color{
+                    width: 1320px;
+                    height: 229px;
+                    background-color: red;
+                    position: absolute;
+                    top: 76.8%;
+                    display: flex;
+                    
+}
+.gift{
+                    height: 578px;
+                    width: 675px;
+                    position: relative;
+                    z-index: 1;
+                    margin-top:100px;
+}
+.dis{
+                    height: 305px;
+                    width: 305px;
+                    margin-bottom: 300px;
+                    align-items: center;
+}
